@@ -1,0 +1,6 @@
+com\xing\rover\surface\PositionTest.class
+com\xing\rover\surface\DirectionTest.class
+com\xing\rover\surface\PlateauTest.class
+com\xing\rover\main\RoverTest.class
+com\xing\rover\service\MovementControllerTest.class
+com\xing\rover\surface\PointTest.class
